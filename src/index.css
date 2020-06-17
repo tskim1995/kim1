@@ -1,0 +1,19 @@
+.login {
+    position: fixed;
+    right: 2%;
+    top: 0;
+}
+
+.title h1{
+    font-size: 50px;
+    padding-left: 50px;
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+}
+
+li {
+    margin: 25px 0px;
+}
